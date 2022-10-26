@@ -67,7 +67,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.7.RELEASE</version>
                 <configuration>
-                    <mainClass>com.example.school_bbs_notice.SchoolBbsNoticeApplication</mainClass>
+                    <mainClass>com.school.bbs.notice.SchoolBbsNoticeApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>

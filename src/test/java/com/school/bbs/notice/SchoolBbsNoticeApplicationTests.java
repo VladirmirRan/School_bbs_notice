@@ -1,4 +1,4 @@
-package com.example.school_bbs_notice;
+package com.school.bbs.notice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
